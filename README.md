@@ -17,7 +17,7 @@ Pretendo fazer melhorias contínuas neste repositório à medida que avanço no 
    - [x] Adicionar mais seções ao README.md
    - [x] Incluir mais desafios
    - [x] Documentar o processo de contribuição
-   - [] Adicionar links úteis e recursos
+   - [ ] Adicionar links úteis e recursos
 
 ---
 Obrigado por visitar este repositório! Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. 

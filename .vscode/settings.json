@@ -1,0 +1,5 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "interactiveWindow.executeWithShiftEnter": false,
+    "jupyter.interactiveWindow.codeLens.enable": true
+}

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner do Projeto" width="100%">
-</p>
 
 <h1 align="center">📊✨ Análise de Vendas para E-commerce com Python</h1>
 <h3 align="center">Pandas | NumPy | Matplotlib | Seaborn | Data Analytics</h3>

@@ -68,3 +68,15 @@ Decisões mais seguras, rápidas e sustentáveis — guiadas por evidências rea
 
 ---
 
+## 🔖 Bibliotecas Usadas
+
+![Python](https://img.shields.io/badge/Python-🐍-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-🐼-blue)
+![NumPy](https://img.shields.io/badge/NumPy-🔢-lightgrey)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-📊-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-🌈-purple)
+![Random](https://img.shields.io/badge/Random-🎲-orange)
+![Datetime](https://img.shields.io/badge/Datetime-⏰-red)
+![Platform](https://img.shields.io/badge/Platform-💻-black)
+
+

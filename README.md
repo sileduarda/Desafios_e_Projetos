@@ -1,9 +1,9 @@
-# Desafios/Projetos DIO
+# Desafios/Projetos
 
-Olá! Seja bem-vindo ao repositório de Desafios de Projetos da Digital Innovation One (DIO). :relaxed:
+Olá! Seja bem-vindo ao meu repositório de Projetos desenvolvidos nos cursos de especialização que estou fazendo . :relaxed:
 ---
 
-Este repositório foi criado como parte do desafio do Projeto GitHub da Digital Innovation One (DIO). O objetivo deste projeto é praticar e aprimorar habilidades em Git, GitHub e Markdown, além de colaborar com outros desenvolvedores. Além disso, esse repositório serve como um portfólio para demonstrar minhas habilidades em controle de versão e linguagem Markdown.
+Este repositório a príncipio foi criado como parte de um desafio de Projeto do curso de GitHub da Digital Innovation One (DIO). O objetivo deste projeto era praticar e aprimorar habilidades em Git, GitHub e Markdown, além de colaborar com outros desenvolvedores. Diante disso, resolvi deixer esse repositório como um portfólio para demonstrar minhas habilidades em controle de versão e linguagem Markdown.
 
 ---
 ## Objetivos do Projeto
@@ -12,7 +12,7 @@ Este repositório foi criado como parte do desafio do Projeto GitHub da Digital 
 - Colaborar com outros desenvolvedores em um ambiente de controle de versão.
 ---
 
-Pretendo fazer melhorias contínuas neste repositório à medida que avanço no desafio do Projeto GitHub DIO.
+Pretendo fazer melhorias contínuas neste repositório à medida que avanço nos desafios de Projetos.
 ### Checklist para atualizações futuras:
    - [x] Adicionar mais seções ao README.md
    - [x] Incluir mais desafios

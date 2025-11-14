@@ -117,6 +117,6 @@ python analise_vendas.py
 ```
 
 👩‍💻 Autora
-Maria Eduarda Souza Silva
-Zootecnista • Pesquisadora • Data Analyst em formação
-💡 Transformando dados em decisões inteligentes
+</p> Maria Eduarda Souza Silva
+</p> Zootecnista • Pesquisadora • Data Analyst em formação
+</p>💡 Transformando dados em decisões inteligentes

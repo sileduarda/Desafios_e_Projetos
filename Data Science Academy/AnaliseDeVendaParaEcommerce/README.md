@@ -1,82 +1,125 @@
-# 📊 Análise de Vendas para E-commerce com Pandas, NumPy e Matplotlib  
+<p align="center">
+  <img src="banner.png" alt="Banner do Projeto" width="100%">
+</p>
 
-Este projeto transforma dados brutos de vendas em **insights reais**, ajudando a orientar decisões sobre estoque, marketing, sazonalidade e expansão.  
-Com **Pandas, NumPy e Matplotlib**, consolidamos, limpamos e exploramos o histórico de vendas para revelar padrões e oportunidades escondidas nos números.
+<h1 align="center">📊✨ Análise de Vendas para E-commerce com Python</h1>
+<h3 align="center">Pandas | NumPy | Matplotlib | Seaborn | Data Analytics</h3>
 
----
-
-## 🎯 Objetivo do Negócio  
-
-Nossa loja de e-commerce está crescendo rapidamente e acumulando uma quantidade enorme de registros. O problema?  
-Esses dados em estado bruto são como um **baú de tesouro trancado**: sabemos que existe valor, mas não conseguimos acessá-lo facilmente.
-
-Sem uma análise estruturada, surgem desafios como:
-
-- 📦 **Estoque desbalanceado:** dificuldade em identificar produtos mais e menos vendidos.  
-- 🎯 **Marketing pouco eficiente:** campanhas genéricas por falta de segmentação real.  
-- 📅 **Perda de oportunidades sazonais:** ausência de visão clara sobre picos e quedas ao longo do ano.  
-- 🌍 **Expansão sem direção:** falta de dados sobre as regiões mais promissoras.
-
-O problema central é a falta de **visibilidade clara da performance**, o que impede decisões rápidas, inteligentes e baseadas em evidências.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2.2.0-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1.26-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3.8-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0.13-4B8BBE" />
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen" />
+</p>
 
 ---
 
-## 🧭 Perguntas de Negócio Respondidas
+# 🛒 Sobre o Projeto
 
-Este projeto foi estruturado para responder quatro perguntas fundamentais:
+Este projeto foi desenvolvido para transformar dados brutos de vendas em **insights reais**, ajudando uma loja de e-commerce em crescimento a tomar decisões mais inteligentes e orientadas por dados.
 
-### 1️⃣ **O que vender?**  
-Identificar produtos campeões e itens de baixa rotatividade para otimizar o portfólio.
+Utilizei ferramentas essenciais da análise de dados para:
 
-### 2️⃣ **Onde focar?**  
-Descobrir quais categorias geram mais receita e merecem mais investimento.
-
-### 3️⃣ **Quando agir?**  
-Entender padrões sazonais, picos e quedas de vendas ao longo do tempo.
-
-### 4️⃣ **Para onde expandir?**  
-Mapear regiões com maior potencial para estratégias logísticas e comerciais.
+- Consolidar e limpar dados  
+- Criar novas variáveis (engenharia de atributos)  
+- Explorar padrões de comportamento   
+- Construir visualizações intuitivas  
+- Responder perguntas críticas de negócio  
 
 ---
 
-## 🛠️ Solução Proposta  
+# 🎯 Problema de Negócio
 
-A solução envolve:
+A empresa enfrentava dificuldades por tomar decisões baseadas em intuição:
 
-- 📚 **Consolidação e limpeza** do histórico de vendas  
-- 🧹 **Tratamento e padronização** dos dados com Pandas e NumPy  
-- 📈 **Exploração e visualização** com Matplotlib  
-- 📝 **Relatório final** com insights claros para gestão, marketing e operações  
+- ❌ Estoque desorganizado  
+- ❌ Falta de previsibilidade  
+- ❌ Marketing pouco efetivo  
+- ❌ Expansão sem direção  
+- ❌ Pouca compreensão das tendências  
 
-O objetivo é transformar dados em **respostas práticas**, e não apenas em gráficos.
-
----
-
-## 🚀 Resultados Esperados
-
-### ✔ **Otimização de estoque**  
-Melhor definição de compras, redução de custos e prevenção de ruptura de produtos.
-
-### ✔ **Marketing direcionado**  
-Campanhas mais eficientes baseadas em categorias, produtos e regiões lucrativas.
-
-### ✔ **Planejamento estratégico inteligente**  
-Identificação de tendências mensais e sazonais para decisões antecipadas.
-
-### ✔ **Cultura orientada por dados**  
-Decisões mais seguras, rápidas e sustentáveis — guiadas por evidências reais.
+O objetivo é simples:  
+> **transformar dados em clareza, clareza em estratégia, e estratégia em crescimento.**
 
 ---
 
-## 🔖 Bibliotecas Usadas
+# 📌 Objetivos da Análise
 
-![Python](https://img.shields.io/badge/Python-🐍-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-🐼-blue)
-![NumPy](https://img.shields.io/badge/NumPy-🔢-lightgrey)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-📊-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-🌈-purple)
-![Random](https://img.shields.io/badge/Random-🎲-orange)
-![Datetime](https://img.shields.io/badge/Datetime-⏰-red)
-![Platform](https://img.shields.io/badge/Platform-💻-black)
+### 🔍 **1. O que vender?**  
+Produtos mais vendidos e rentáveis.
+
+### 🧭 **2. Onde focar?**  
+Categorias que trazem mais faturamento.
+
+### 📆 **3. Quando agir?**  
+Tendências mensais e sazonalidade.
+
+### 🗺️ **4. Para onde expandir?**  
+Regiões com maior potencial de mercado.
+
+---
+
+# 🛠️ Ferramentas Utilizadas
+
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **Python** | Linguagem principal |
+| **Pandas** | Manipulação de dados |
+| **NumPy** | Operações matemáticas |
+| **Matplotlib/Seaborn** | Visualizações |
+| **Datetime** | Tratamento temporal |
+| **Random** | Geração de dados fictícios |
+
+---
+
+# 📊 Visualizações Criadas
+
+### 🏆 Top 10 Produtos Mais Vendidos  
+![Top 10 Produtos](imagens/top_10_produtos.png)
+
+---
+
+### 📈 Evolução do Faturamento Mensal  
+![Faturamento Mensal](imagens/faturamento_mensal.png)
+
+---
+
+### 🗺️ Faturamento por Estado  
+![Faturamento por Estado](imagens/vendas_por_estado.png)
+
+---
+
+### 🛒 Faturamento por Categoria  
+![Faturamento por Categoria](imagens/faturamento_categoria.png)
+
+---
+
+# 📂 Estrutura do Projeto
+
+📁 projeto-analise-vendas/
+</p> │ 
+</p> ├── 📁 imagens/
+</p> │ ├── top_10_produtos.png
+</p> │ ├── faturamento_mensal.png
+</p> │ ├── vendas_por_estado.png
+</p> │ └── faturamento_categoria.png
+</p> │
+</p> ├── 📄 analise_vendas.py
+</p> └── 📄 README.md
 
 
+---
+
+# ▶️ Como Executar
+
+```bash
+pip install pandas numpy matplotlib seaborn
+python analise_vendas.py
+```
+
+👩‍💻 Autora
+Maria Eduarda Souza Silva
+Zootecnista • Pesquisadora • Data Analyst em formação
+💡 Transformando dados em decisões inteligentes

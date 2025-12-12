@@ -118,6 +118,8 @@ plt.legend()
 plt.grid(axis = 'y', alpha = 0.75)
 plt.show()
 
+
+
 # Respondendo a segunda pergunta: 
 
 # Definindo um cliente de "Alto Valor" para a empresa
@@ -163,6 +165,7 @@ plt.figure(figsize = (8,6))
 sns.heatmap(matriz_correlacao, annot = True, fmt = '.2f', cmap = 'coolwarm', xticklabels = dados.columns, yticklabels = dados.columns)
 plt.title('Matriz de Correlação entre as Variáveis do E-commerce')  
 plt.show()
+
 
 """ Segundo a matriz de correlacao e o heatmap, podemos observar que há uma correlação positiva significativa entre o número de itens no carrinho e o valor da compra (correlação de aproximadamente 0.85). Isso indica que, à medida que os usuários adicionam mais itens ao carrinho, o valor total da compra tende a aumentar substancialmente.
 Além disso, há uma correlação moderada entre o tempo no site e o valor da compra (cerca de 0.6), sugerindo que usuários que passam mais tempo navegando também tendem a gastar mais. No entanto, a correlação entre o número de visitas e o valor da compra é relativamente baixa (aproximadamente 0.3), indicando que apenas visitar o site com frequência não necessariamente leva a um aumento significativo no valor gasto. """

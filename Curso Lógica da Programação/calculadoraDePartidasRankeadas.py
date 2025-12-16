@@ -8,3 +8,24 @@
 # Se vitorias for maior ou igual a 101 = Imortal
 # Ao final deve se exibir uma mensagem: 
 # O Herói tem o saldo de {saldoVitorias} e está no nível {nível}
+
+def calculadoraDePartidasRankeadas(vitorias, derrotas):
+    saldoVitorias = vitorias - derrotas
+    if saldoVitorias < 10:
+        nível = 'Ferro'
+    elif 11 <= saldoVitorias <= 20:  
+        nível = 'Bronze'
+    elif 21 <= saldoVitorias <= 50:
+        nível = 'Prata'
+    elif 51 <= saldoVitorias <= 80:
+        nível = 'Ouro'
+    elif 81 <= saldoVitorias <= 90:
+        nível = 'Diamante'
+    elif 91 <= saldoVitorias <= 100:
+        nível = 'Lendário'
+    elif saldoVitorias >= 101:
+        nível = 'Imortal' 
+    print(f'O héroi tem saldo de {saldoVitorias} e está no nível {nível}')
+    
+    
+calculadoraDePartidasRankeadas(150, 2)
